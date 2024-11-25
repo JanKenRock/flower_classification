@@ -10,9 +10,7 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 Our procedure consists of the following four steps:
 
-    We download the necessary data.
-    We split the data into training, validation and test sets and prepare it for the training of the model.
-    We train the model.
-    We evaluate the model.
-
-We begin with downloading the data.
+    1.) We download the necessary data.
+    2.) We split the data into training, validation and test sets and prepare it for the training of the model.
+    3.) We train the model.
+    4.) We evaluate the model.
